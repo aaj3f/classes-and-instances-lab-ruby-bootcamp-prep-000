@@ -1,5 +1,5 @@
 class Dog
-  #I don't think we're 
+  #I don't think we're describing Dog today
 end
 
 fido = Dog.new
